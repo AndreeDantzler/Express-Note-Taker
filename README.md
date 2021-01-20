@@ -27,11 +27,12 @@
   
   ## Screenshots
 
- [Watch the video](https://drive.google.com/file/d/1oyXxqNQNHkM3Bhx2_9_FN1_fkkjfFsLB/view?usp=sharing)
+![image](https://user-images.githubusercontent.com/69064703/105126879-aa6c5300-5aad-11eb-8163-19a4b48a7b8f.png)
+![image](https://user-images.githubusercontent.com/69064703/105127591-3468eb80-5aaf-11eb-8d63-c9cddf8d7143.png)
 
   ## Repo URL
 
-  [Repo URL](https://github.com/AndreeDantzler/GoodREADMeGenerator)
+  [Repo URL](https://github.com/AndreeDantzler/Express-Note-Taker)
 
   ## Licenses: 
 
